@@ -74,9 +74,8 @@ root/
 
 ## 🚀 Getting Started (Local Development)
 
-### ✅ 1. Clone the repository
-
-```bash
+```
+1. Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
