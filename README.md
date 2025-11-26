@@ -34,19 +34,19 @@ It demonstrates how to integrate **advanced UI motion**, **3D WebGL elements**, 
 ---
 
 ## 🗂 Repository Structure
+```
 root/
-├─ senior-junior-landing/ # Next.js frontend (animations + 3D + UI)
-│ ├─ src/
-│ │ ├─ app/ # Routing entry
-│ │ └─ components/ # Hero, About, Events, Contact, 3D, etc.
-│ └─ package.json
+├─ senior-junior-landing/        # Next.js frontend (animations + 3D + UI)
+│  ├─ src/
+│  │  ├─ app/                    # Routing entry (App Router)
+│  │  └─ components/             # Hero, About, Events, Contact, 3D, etc.
+│  └─ package.json
 │
-└─ senior-junior-cms/ # Strapi backend (content + API)
-├─ src/
-│ └─ api/ # Content type definitions
-└─ package.json
-
-
+└─ senior-junior-cms/            # Strapi backend (content + REST API)
+   ├─ src/
+   │  └─ api/                    # Content type definitions (homepage, event)
+   └─ package.json
+```
 ---
 
 ## ⚙️ Tech Stack Breakdown
