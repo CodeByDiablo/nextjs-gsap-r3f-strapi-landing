@@ -1,4 +1,6 @@
-# 🚀 Modern Web Project  
+# 🚀 Modern Web Project
+<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/f2350d86-7a64-4725-bdc6-9920060d924e" />
+
 ### Next.js • GSAP • Lenis • React Three Fiber • Styled-Components • Strapi (Headless CMS)
 
 This repository showcases a **modern animated landing page** powered by a full headless CMS stack.  
