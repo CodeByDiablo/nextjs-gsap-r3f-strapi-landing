@@ -13,7 +13,7 @@ const PageWrapper = styled.main`
   background: radial-gradient(circle at top, #111827 0, #05060a 50%);
 `;
 
-const STRAPI_URL = "http://localhost:1337";
+const STRAPI_URL = process.env.NEXT_PUBLIC_STRAPI_API_URL || "http://localhost:1337";
 
 type HomepageData = {
   heroTitle?: string;
